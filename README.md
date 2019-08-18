@@ -1,4 +1,4 @@
 # EscEditor
 脱出ゲームエディター
 
-https://github.com/syun77/EscEditor/tree/master/html5
+https://syun77.github.io/EscEditor/html5/bin/
