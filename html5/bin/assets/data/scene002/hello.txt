@@ -1,0 +1,5 @@
+function hello() {
+	NOTICE("hello world");
+	BITON(2);
+	JUMP(1);
+}
